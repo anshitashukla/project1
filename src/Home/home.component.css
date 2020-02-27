@@ -99,11 +99,11 @@ div.column-hover:hover{
 
 /* split container */
 
-body {
+/* body {
   padding: 20px;
   font-family: 'Open Sans', sans-serif;
   background-color: #f7f7f7;
-}
+} */
 
 .lib-panel {
   margin-bottom: 20Px;
@@ -162,3 +162,4 @@ body {
 .no-padding {
   padding: 0;
 }
+
